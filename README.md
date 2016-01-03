@@ -1,14 +1,14 @@
 # README
 
 ### framework
-- **backend：[leancloud](https://leancloud.cn)**
+- **backend service：[leancloud](https://leancloud.cn)**
 
 ### features
-- shader effect!
+- used shader effect
 - vivid animation
-- pre buffer music
-- sound tracks mix
-- auto update
+- can buffer music files
+- multiple sound tracks
+- auto check for updates
 
 ### preview
 ![preview](image/preview.gif)
